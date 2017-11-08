@@ -13,9 +13,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 The plan is to try to do weekly to monthly blogposts about something interesting I learn. I might also write up technical details about setting something up as a reference for my future self.
 
-I chose to use the [blogdown](https://bookdown.org/yihui/blogdown/) package to manage this blog, with the hugo theme [`purehugo`]('http://dplesca.github.io/purehugo/').
+I chose to use the [blogdown](https://bookdown.org/yihui/blogdown/) package to manage this blog, with the hugo theme [`purehugo`](http://dplesca.github.io/purehugo/).
 
-This is not the first time that I start a blog, I also have my own [academic page/blog]('http://www.imm.dtu.dk/~guei/'). I just don't post there regularly. Removing some of the overhead, by managing the content/posts as Rmarkdown documents, will hopefully make me more productive as a blogger.
+This is not the first time that I start a blog, I also have my own [academic page/blog](http://www.imm.dtu.dk/~guei/). I just don't post there regularly. Removing some of the overhead, by managing the content/posts as Rmarkdown documents, will hopefully make me more productive as a blogger.
 
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '852205086956818432')
