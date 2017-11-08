@@ -90,43 +90,7 @@
 <p>The plan is to try to do weekly to monthly blogposts about something interesting I learn. I might also write up technical details about setting something up as a reference for my future self.</p>
 <p>I chose to use the <a href="https://bookdown.org/yihui/blogdown/">blogdown</a> package to manage this blog, with the hugo theme <a href="http://dplesca.github.io/purehugo/"><code>purehugo</code></a>.</p>
 <p>This is not the first time that I start a blog, I also have my own <a href="http://www.imm.dtu.dk/~guei/">academic page/blog</a>. I just don’t post there regularly. Removing some of the overhead, by managing the content/posts as Rmarkdown documents, will hopefully make me more productive as a blogger.</p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anyone know of an R package for interfacing with Alexa Skills? <a href="https://twitter.com/thosjleeper?ref_src=twsrc%5Etfw">@thosjleeper</a> <a href="https://twitter.com/xieyihui?ref_src=twsrc%5Etfw">@xieyihui</a> <a href="https://twitter.com/drob?ref_src=twsrc%5Etfw">@drob</a> <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a> <a href="https://twitter.com/HoloMarkeD?ref_src=twsrc%5Etfw">@HoloMarkeD</a> ?</p>&mdash; Jeff Leek (@jtleek) <a href="https://twitter.com/jtleek/status/852205086956818432?ref_src=twsrc%5Etfw">April 12, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<pre class="r"><code>summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932</code></pre>
-</div>
-<div id="including-plots" class="section level1">
-<h1>Including Plots</h1>
-<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
-<pre class="r"><code>par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
-  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
-  init.angle = -50, border = NA
-)</code></pre>
-<div class="figure"><span id="fig:pie"></span>
-<img src="../post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
-<p class="caption">
-Figure 1: A fancy pie chart.
-</p>
-</div>
+<p>The blogdown book is a rather good source for doing everything related to deploying a webpage.</p>
 </div>
 
                     </div>
