@@ -13,7 +13,7 @@
     <item>
       <title>Machine Learning</title>
       <link>https://gumeo.github.io/categories/machine-learning/</link>
-      <pubDate>Tue, 07 Nov 2017 16:00:00 -0500</pubDate>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gumeo.github.io/categories/machine-learning/</guid>
       <description></description>
@@ -22,9 +22,18 @@
     <item>
       <title>R</title>
       <link>https://gumeo.github.io/categories/r/</link>
-      <pubDate>Tue, 07 Nov 2017 16:00:00 -0500</pubDate>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gumeo.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse</title>
+      <link>https://gumeo.github.io/categories/sparse/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gumeo.github.io/categories/sparse/</guid>
       <description></description>
     </item>
     
