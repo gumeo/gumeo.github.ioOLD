@@ -1,0 +1,42 @@
+---
+title: "My first post"
+author: "Gudmundur Einarsson"
+date: 2017-11-07T16:00:00-05:00
+categories: ["R", "Machine-Learning"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Starting a blog
+
+The plan is to try to do weekly to monthly blogposts about something interesting I learn. I might also write up technical details about setting something up as a reference for my future self.
+
+I chose to use the [blogdown]('https://bookdown.org/yihui/blogdown/') package to manage this blog, with the hugo theme [`purehugo`]('http://dplesca.github.io/purehugo/').
+
+This is not the first time that I start a blog, I also have my own [academic page/blog]('http://www.imm.dtu.dk/~guei/'). I just don't post there regularly. Removing some of the overhead, by managing the content/posts as Rmarkdown documents, will hopefully make me more productive as a blogger.
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '852205086956818432')
+```
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
