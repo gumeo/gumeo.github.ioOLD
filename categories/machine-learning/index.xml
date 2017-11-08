@@ -18,8 +18,7 @@
       
       <guid>https://gumeo.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>Starting a blog The plan is to try to do weekly to monthly blogposts about something interesting I learn. I might also write up technical details about setting something up as a reference for my future self.
-I chose to use the blogdown package to manage this blog, with the hugo theme purehugo.
-This is not the first time that I start a blog, I also have my own academic page/blog.</description>
+I chose to use the blogdown package to manage this blog, with the hugo theme purehugo. The main reason I chose this is because I think it scales well for mobile devices and it looks clean and minimal.</description>
     </item>
     
   </channel>
