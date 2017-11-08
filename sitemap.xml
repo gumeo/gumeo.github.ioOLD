@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/purehugo/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/dplesca/purehugo/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2017-11-07T16:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/purehugo/categories/</loc>
+    <loc>/dplesca/purehugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/purehugo/</loc>
-    <lastmod>2017-11-07T16:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/purehugo/categories/machine-learning/</loc>
+    <loc>/dplesca/purehugo/</loc>
     <lastmod>2017-11-07T16:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/purehugo/post/</loc>
+    <loc>/dplesca/purehugo/categories/machine-learning/</loc>
     <lastmod>2017-11-07T16:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/purehugo/categories/r/</loc>
+    <loc>/dplesca/purehugo/post/</loc>
     <lastmod>2017-11-07T16:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/purehugo/tags/</loc>
+    <loc>/dplesca/purehugo/categories/r/</loc>
+    <lastmod>2017-11-07T16:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/dplesca/purehugo/tags/</loc>
     <priority>0</priority>
   </url>
   
