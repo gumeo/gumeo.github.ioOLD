@@ -6,20 +6,10 @@
     <description>Recent content in Posts on Gumeo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gumeo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Visualizing Strange Attractors </title>
-      <link>https://gumeo.github.io/post/visualizing-strange-attractors/</link>
-      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gumeo.github.io/post/visualizing-strange-attractors/</guid>
-      <description>What is a strange attractor? The wikipedia article on attractors gives the following definition/explanation:
- An attractor is called strange if it has a fractal structure. This is often the case when the dynamics on it are chaotic, but strange nonchaotic attractors also exist. If a strange attractor is chaotic, exhibiting sensitive dependence on initial conditions, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together.</description>
-    </item>
     
     <item>
       <title>Got some new books!</title>
@@ -40,6 +30,16 @@ Let the reading commence #rstats #MachineLearning pic.twitter.com/Lqx2IcTENI
       <guid>https://gumeo.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>Starting a blog The plan is to try to do weekly to monthly blogposts about something interesting I learn. I might also write up technical details about setting something up as a reference for my future self.
 I chose to use the blogdown package to manage this blog, with the hugo theme purehugo. The main reason I chose this is because I think it scales well for mobile devices and it looks clean and minimal.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Strange Attractors </title>
+      <link>https://gumeo.github.io/post/visualizing-strange-attractors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gumeo.github.io/post/visualizing-strange-attractors/</guid>
+      <description>What is a strange attractor? The wikipedia article on attractors gives the following definition/explanation:
+ An attractor is called strange if it has a fractal structure. This is often the case when the dynamics on it are chaotic, but strange nonchaotic attractors also exist. If a strange attractor is chaotic, exhibiting sensitive dependence on initial conditions, then any two arbitrarily close alternative initial points on the attractor, after any of various numbers of iterations, will lead to points that are arbitrarily far apart (subject to the confines of the attractor), and after any of various other numbers of iterations will lead to points that are arbitrarily close together.</description>
     </item>
     
   </channel>
