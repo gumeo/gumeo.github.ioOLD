@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gumeo.github.io/post/part-1-deep-learning-with-closures-in-r/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gumeo.github.io/post/visualizing-strange-attractors/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url>
@@ -23,6 +28,18 @@
   </url>
   
   <url>
+    <loc>https://gumeo.github.io/categories/deep-learning/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gumeo.github.io/categories/functional-programming/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gumeo.github.io/categories/graphics/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -30,13 +47,13 @@
   
   <url>
     <loc>https://gumeo.github.io/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gumeo.github.io/categories/machine-learning/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +65,13 @@
   
   <url>
     <loc>https://gumeo.github.io/post/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gumeo.github.io/categories/r/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
