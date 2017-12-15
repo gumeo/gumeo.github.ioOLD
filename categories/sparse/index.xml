@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sparse on Gumeo&#39;s Blog</title>
-    <link>/categories/sparse/</link>
+    <link>https://gumeo.github.io/categories/sparse/</link>
     <description>Recent content in Sparse on Gumeo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/sparse/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gumeo.github.io/categories/sparse/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Got some new books!</title>
-      <link>/post/got-some-new-books/</link>
+      <link>https://gumeo.github.io/post/got-some-new-books/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/got-some-new-books/</guid>
+      <guid>https://gumeo.github.io/post/got-some-new-books/</guid>
       <description>I have been waiting to read these for a while now!
 Let the reading commence #rstats #MachineLearning pic.twitter.com/Lqx2IcTENI
 &amp;mdash; Gudmundur Einarsson (@gumgumeo) November 8, 2017  </description>
