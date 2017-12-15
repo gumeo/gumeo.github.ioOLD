@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Functional Programming on Gumeo&#39;s Blog</title>
-    <link>https://gumeo.github.io/categories/functional-programming/</link>
+    <link>/categories/functional-programming/</link>
     <description>Recent content in Functional Programming on Gumeo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gumeo.github.io/categories/functional-programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/functional-programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Part 1: Deep Learning with Closures in R</title>
-      <link>https://gumeo.github.io/post/part-1-deep-learning-with-closures-in-r/</link>
+      <link>/post/part-1-deep-learning-with-closures-in-r/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gumeo.github.io/post/part-1-deep-learning-with-closures-in-r/</guid>
-      <description>Start of a small series So I received the Deep Learning book a little more than a month ago, and I have had time to read parts I and II. I think that overall the authors successfully explain and condense a lot of research into something digestable. The reason why I use the word condense is because how much information the book contains. The bibliography is 55 pages, so I almost feel that the book should be called Introduction to Deep Learning Research, because it is a gateway to so much good material.</description>
+      <guid>/post/part-1-deep-learning-with-closures-in-r/</guid>
+      <description>Start of a small series The gif below is the evolution of the weights on mnist, trained over the first three epochs. Mnist is a dataset of handwritten digits, and is kind of the hello world/FizzBuzz of machine learning. It is maybe not a very challenging data set, but you can learn a lot from it. This is a 10 by 10 grid of images, where each individual small patch represents weights going to a single neuron in the first hidden layer.</description>
     </item>
     
   </channel>
